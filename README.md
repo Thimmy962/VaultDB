@@ -25,7 +25,7 @@ The current development focus is the storage engine and indexing. Features and i
 
 ## Development
 
-VaultDB is a personal weekend project developed alongside [Vault](<VAULT_REPOSITORY_URL>), my programming language project.
+VaultDB is a personal weekend project developed alongside [Vault](https://github.com/Thimmy962/vault), my programming language project.
 
 Development focuses on building a database engine from the ground up in C, with an emphasis on core storage mechanisms, indexing, and understanding the internals of database systems.
 
